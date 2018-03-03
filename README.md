@@ -14,7 +14,7 @@ PHPWord is an open source project licensed under the terms of [LGPL version 3](h
 
 If you have any questions, please ask on [StackOverFlow](https://stackoverflow.com/questions/tagged/phpword)
 
-Read more about PHPWord:
+Read more about PHPWord: 
 
 - [Features](#features)
 - [Requirements](#requirements)
